@@ -1,0 +1,1 @@
+# UnityEditor.WindowsStandalone.Extensions
